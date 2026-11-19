@@ -8,6 +8,8 @@ depolarda tutuluyor, bu yüzden aşağıda her ürünün canlı sayfasına bağl
 
 ## 🚀 Ürünlerim
 
+### 🔐 Kurumsal ürünler
+
 | Ürün | Ne yapar | Bağlantı |
 |---|---|---|
 | **Veilo** | Self-hosted, uçtan uca şifreli, kapalı ağ kurumsal mesajlaşma platformu | [veilo.tr](https://veilo.tr/) |
@@ -16,13 +18,19 @@ depolarda tutuluyor, bu yüzden aşağıda her ürünün canlı sayfasına bağl
 | **Radar** | Çok sunuculu altyapılar için self-hosted saldırı tespiti, korelasyon ve otomatik tepki (SOAR) | [radar.veilo.tr](https://radar.veilo.tr/) |
 | **Veilo Enterprise Gateway** (kurumsal Authenticator) · *kapalı test aşamasında* | Kurum içi MFA: telefonda sayı eşleştirmeli onay, donanım anahtarı, RADIUS/VPN entegrasyonu | [gateway.veilo.tr](https://gateway.veilo.tr/) |
 | **Veilo Authenticator** (bireysel) · *kapalı test aşamasında* | Bulutsuz, hesapsız, çevrimdışı çalışan Android 2FA uygulaması (TOTP/HOTP) | [auth.veilo.tr](https://auth.veilo.tr) · [depo](https://github.com/suleymanelbir/veilo-authenticator) |
+
+### 🎓 Eğitim (ücretsiz)
+
+| Ürün | Ne yapar | Bağlantı |
+|---|---|---|
 | **Mümin Kur'an** | Kur'an okuma, ezber ve sesli tekrar; kök analizi ve alıştırmalar (Android) | [Google Play](https://play.google.com/store/apps/details?id=com.selbir.hafizapp) |
 | **Tecvid Okulu** | 30 tecvid kuralını ayet üzerinde renkli gösteren, dinleten ve sınavla pekiştiren uygulama (Android + web) | [Google Play](https://play.google.com/store/apps/details?id=com.selbir.tecvidokulu) |
 | **Git Macerası** | Git ve GitHub'ı hikâye içinde, gerçek bir terminalde öğreten web oyunu | [git-oyunu.elbirbot.web.tr](https://git-oyunu.elbirbot.web.tr/) |
 | **Mucitkent** | Çocuklar ve gençler için internet, robotik ve dijital güvenlik oyunu | [mucitkent.elbirbot.web.tr](https://mucitkent.elbirbot.web.tr/) |
-| **AlgoTrade Bot** | Canlı pozisyon, risk ve piyasa rejimi izleme panelleriyle çalışan otomatik işlem sistemi (özel kullanım) | — |
 
 Kur'an ve Tecvid uygulamalarının sayfaları ve gizlilik politikaları: [projeler](https://github.com/suleymanelbir/projeler)
+
+Bunların dışında özel olarak algoritmik işlem (trading) sistemleri geliştiriyorum.
 
 ## 🛠️ Çalıştığım teknolojiler
 
@@ -40,14 +48,19 @@ I'm a software developer, workflow architect and algorithmic trader based in Tur
 self-hosted enterprise security and management products, plus Android apps. Most of the code
 lives in private repositories, so each product links to its live page above.
 
+**Enterprise**
 - **Veilo**: self-hosted, end-to-end encrypted, closed-network enterprise messaging
 - **Voltbox**: zero-knowledge enterprise password and secrets vault
 - **Axon**: enterprise device and server management from one panel
 - **Radar**: self-hosted intrusion detection, correlation and automated response (SOAR)
-- **Veilo Authenticator** (personal, in closed testing): offline, cloudless two-factor authentication app for Android
-- **Mümin Kur'an** and **Tecvid Okulu**: Quran reading/memorization and Tajweed learning apps on Google Play
-- **Git Macerası** and **Mucitkent**: free educational web games (Git/GitHub; internet, robotics and digital safety for kids)
 - **Veilo Enterprise Gateway** (enterprise Authenticator, in closed testing): in-house MFA with number-matching push approval, hardware keys and RADIUS/VPN integration
+- **Veilo Authenticator** (personal, in closed testing): offline, cloudless two-factor authentication app for Android
+
+**Education (free)**
+- **Mümin Kur'an** and **Tecvid Okulu**: Quran reading/memorization and Tajweed learning apps on Google Play
+- **Git Macerası** and **Mucitkent**: educational web games (Git/GitHub; internet, robotics and digital safety for kids)
+
+I also build algorithmic trading systems privately.
 
 Stack: Linux, Docker, PostgreSQL, n8n, Tailscale, GitHub Actions, Android, Python.
 Contact: suleymanelbir@gmail.com
