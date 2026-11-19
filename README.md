@@ -20,6 +20,8 @@ depolarda tutuluyor, bu yüzden aşağıda her ürünün canlı sayfasına bağl
 | **Veilo Authenticator** (bireysel) · *kapalı test aşamasında* | Bulutsuz, hesapsız, çevrimdışı çalışan Android 2FA uygulaması (TOTP/HOTP) | [auth.veilo.tr](https://auth.veilo.tr) · [depo](https://github.com/suleymanelbir/veilo-authenticator) |
 | **Repo Analyzer** · *davetle erişim* | GitHub depolarını güvenlik açısından tarayan, açık kaynak projeleri keşfedip karşılaştıran geliştirici aracı (giriş gerektirir, kod kapalı) | [githup.veilo.tr](https://githup.veilo.tr) |
 
+Kurumsal ürünlerin ayrıntılı tanıtımı: [veilo-ecosystem](https://github.com/suleymanelbir/veilo-ecosystem)
+
 ### 🎓 Eğitim (ücretsiz)
 
 | Ürün | Ne yapar | Bağlantı |
