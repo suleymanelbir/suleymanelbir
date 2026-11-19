@@ -8,7 +8,7 @@ depolarda tutuluyor, bu yüzden aşağıda her ürünün canlı sayfasına bağl
 
 ## 🚀 Ürünlerim
 
-### 🔐 Kurumsal ürünler
+### 🔐 Kurumsal ve geliştirici ürünleri
 
 | Ürün | Ne yapar | Bağlantı |
 |---|---|---|
@@ -49,7 +49,7 @@ I'm a software developer, workflow architect and algorithmic trader based in Tur
 self-hosted enterprise security and management products, plus Android apps. Most of the code
 lives in private repositories, so each product links to its live page above.
 
-**Enterprise**
+**Enterprise & developer**
 - **Veilo**: self-hosted, end-to-end encrypted, closed-network enterprise messaging
 - **Voltbox**: zero-knowledge enterprise password and secrets vault
 - **Axon**: enterprise device and server management from one panel
