@@ -18,6 +18,7 @@ depolarda tutuluyor, bu yüzden aşağıda her ürünün canlı sayfasına bağl
 | **Radar** | Çok sunuculu altyapılar için self-hosted saldırı tespiti, korelasyon ve otomatik tepki (SOAR) | [radar.veilo.tr](https://radar.veilo.tr/) |
 | **Veilo Enterprise Gateway** (kurumsal Authenticator) · *kapalı test aşamasında* | Kurum içi MFA: telefonda sayı eşleştirmeli onay, donanım anahtarı, RADIUS/VPN entegrasyonu | [gateway.veilo.tr](https://gateway.veilo.tr/) |
 | **Veilo Authenticator** (bireysel) · *kapalı test aşamasında* | Bulutsuz, hesapsız, çevrimdışı çalışan Android 2FA uygulaması (TOTP/HOTP) | [auth.veilo.tr](https://auth.veilo.tr) · [depo](https://github.com/suleymanelbir/veilo-authenticator) |
+| **Repo Analyzer** · *davetle erişim* | GitHub depolarını güvenlik açısından tarayan, açık kaynak projeleri keşfedip karşılaştıran geliştirici aracı (giriş gerektirir, kod kapalı) | [githup.veilo.tr](https://githup.veilo.tr) |
 
 ### 🎓 Eğitim (ücretsiz)
 
@@ -55,6 +56,7 @@ lives in private repositories, so each product links to its live page above.
 - **Radar**: self-hosted intrusion detection, correlation and automated response (SOAR)
 - **Veilo Enterprise Gateway** (enterprise Authenticator, in closed testing): in-house MFA with number-matching push approval, hardware keys and RADIUS/VPN integration
 - **Veilo Authenticator** (personal, in closed testing): offline, cloudless two-factor authentication app for Android
+- **Repo Analyzer** (invite-only, closed source): scans GitHub repositories for security issues and compares open-source projects
 
 **Education (free)**
 - **Mümin Kur'an** and **Tecvid Okulu**: Quran reading/memorization and Tajweed learning apps on Google Play
