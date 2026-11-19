@@ -18,8 +18,8 @@ depolarda tutuluyor, bu yüzden aşağıda her ürünün canlı sayfasına bağl
 | **Veilo Authenticator** (bireysel) · *kapalı test aşamasında* | Bulutsuz, hesapsız, çevrimdışı çalışan Android 2FA uygulaması (TOTP/HOTP) | [auth.veilo.tr](https://auth.veilo.tr) · [depo](https://github.com/suleymanelbir/veilo-authenticator) |
 | **Mümin Kur'an** | Kur'an okuma, ezber ve sesli tekrar; kök analizi ve alıştırmalar (Android) | [Google Play](https://play.google.com/store/apps/details?id=com.selbir.hafizapp) |
 | **Tecvid Okulu** | 30 tecvid kuralını ayet üzerinde renkli gösteren, dinleten ve sınavla pekiştiren uygulama (Android + web) | [Google Play](https://play.google.com/store/apps/details?id=com.selbir.tecvidokulu) |
-| **Git Macerası** | Git ve GitHub'ı hikâye içinde, gerçek bir terminalde öğreten web oyunu | — |
-| **Mucitkent** | Çocuklar ve gençler için internet, robotik ve dijital güvenlik oyunu | — |
+| **Git Macerası** | Git ve GitHub'ı hikâye içinde, gerçek bir terminalde öğreten web oyunu | [git-oyunu.elbirbot.web.tr](https://git-oyunu.elbirbot.web.tr/) |
+| **Mucitkent** | Çocuklar ve gençler için internet, robotik ve dijital güvenlik oyunu | [mucitkent.elbirbot.web.tr](https://mucitkent.elbirbot.web.tr/) |
 | **AlgoTrade Bot** | Canlı pozisyon, risk ve piyasa rejimi izleme panelleriyle çalışan otomatik işlem sistemi (özel kullanım) | — |
 
 Kur'an ve Tecvid uygulamalarının sayfaları ve gizlilik politikaları: [projeler](https://github.com/suleymanelbir/projeler)
