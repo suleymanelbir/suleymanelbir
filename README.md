@@ -33,7 +33,22 @@ Kurumsal ürünlerin ayrıntılı tanıtımı: [veilo-ecosystem](https://github.
 
 Kur'an ve Tecvid uygulamalarının sayfaları ve gizlilik politikaları: [projeler](https://github.com/suleymanelbir/projeler)
 
-Bunların dışında özel olarak algoritmik işlem (trading) sistemleri geliştiriyorum.
+## 📈 Algoritmik işlem (kapalı kaynak)
+
+Kripto piyasalarında (Binance, Hyperliquid) çalışan kendi algoritmik işlem sistemlerimi geliştiriyorum.
+Kodlar, stratejiler ve sonuçlar özeldir; burada yalnızca sistemlerin ne yaptığı anlatılır.
+Bu bölüm yatırım tavsiyesi değildir.
+
+| Sistem | Ne yapar |
+|---|---|
+| **Elbirbot** | Vadeli işlem (futures) botunun komuta paneli: salt okunur kokpit, Grafana "Market MRI" panoları, Telegram denetimli duraklatma düğmesi; Cloudflare Access ile korunur |
+| **Arbitraj botu** | XAU/PAXG fonlama oranı toplama (cash-and-carry arbitraj), Hyperliquid + Binance |
+| **Binance Futures botları** | Çoklu gösterge (EMA, ADX, RSI, ATR, hacim, VWAP) ile erken trend tespiti, yapılandırılabilir risk yönetimi, long/short, scalping ve grid stratejileri |
+| **Dominans ve düşen/yükselen taraması** | CoinMarketCap dominans göstergeleri ve yükselen/düşen coin tespiti ile kaldıraçlı işlem |
+| **Spot ve opsiyon botları** | Spot işlem ve opsiyon işlemleri için araçlar |
+| **Coinpano** | FastAPI + PostgreSQL tabanlı coin takip paneli ([coinpano.com](https://coinpano.com)) |
+
+Altyapı: Python · systemd · Docker · PostgreSQL · Grafana · Telegram bildirimleri
 
 ## 🛠️ Çalıştığım teknolojiler
 
@@ -64,7 +79,15 @@ lives in private repositories, so each product links to its live page above.
 - **Mümin Kur'an** and **Tecvid Okulu**: Quran reading/memorization and Tajweed learning apps on Google Play
 - **Git Macerası** and **Mucitkent**: educational web games (Git/GitHub; internet, robotics and digital safety for kids)
 
-I also build algorithmic trading systems privately.
+I build algorithmic trading systems for crypto markets (Binance, Hyperliquid). Code and strategies are private; this is not investment advice.
+
+- **Elbirbot**: control cockpit for the futures bot (read-only dashboards, Grafana "Market MRI", Telegram-audited pause button, Cloudflare Access)
+- **Arbitrage bot**: XAU/PAXG funding-rate farming (cash-and-carry) on Hyperliquid + Binance
+- **Binance Futures bots**: multi-indicator early trend detection, configurable risk management, long/short, scalping and grid strategies
+- **Dominance and movers scanner**: CoinMarketCap dominance signals and rising/falling coin detection
+- **Spot and options bots**, and **Coinpano**: a FastAPI + PostgreSQL coin tracker
+
+Stack: Python, systemd, Docker, PostgreSQL, Grafana, Telegram alerts.
 
 Stack: Linux, Docker, PostgreSQL, n8n, Tailscale, GitHub Actions, Android, Python.
 Contact: suleymanelbir@gmail.com
