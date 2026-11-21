@@ -22,6 +22,12 @@ depolarda tutuluyor, bu yüzden aşağıda her ürünün canlı sayfasına bağl
 
 Kurumsal ürünlerin ayrıntılı tanıtımı: [veilo-ecosystem](https://github.com/suleymanelbir/veilo-ecosystem)
 
+### 🏙️ Şehir ve kamu
+
+| Ürün | Ne yapar | Bağlantı |
+|---|---|---|
+| **KentNabzı** · *prototip: Konya merkez* | Açık uydu verisinden (Sentinel-2) kentsel büyüme izleme: yıllık yapılaşma haritası, ruhsat/yerinde inceleme için aday listesi ve mahalle büyüme sıralaması. Belediye, OSB ve altyapı kurumları için | [kentnabzi.elbirbot.web.tr](https://kentnabzi.elbirbot.web.tr/) |
+
 ### 🎓 Eğitim (ücretsiz)
 
 | Ürün | Ne yapar | Bağlantı |
@@ -74,6 +80,9 @@ lives in private repositories, so each product links to its live page above.
 - **Veilo Enterprise Gateway** (enterprise Authenticator, in closed testing): in-house MFA with number-matching push approval, hardware keys and RADIUS/VPN integration
 - **Veilo Authenticator** (personal, in closed testing): offline, cloudless two-factor authentication app for Android
 - **Repo Analyzer** (invite-only, closed source): scans GitHub repositories for security issues and compares open-source projects
+
+**City & public sector**
+- **KentNabzı** (prototype, Konya city centre): urban growth monitoring from open satellite data (Sentinel-2): yearly built-up maps, inspection candidate lists and neighbourhood growth rankings for municipalities and utilities. [kentnabzi.elbirbot.web.tr](https://kentnabzi.elbirbot.web.tr/)
 
 **Education (free)**
 - **Mümin Kur'an** and **Tecvid Okulu**: Quran reading/memorization and Tajweed learning apps on Google Play
