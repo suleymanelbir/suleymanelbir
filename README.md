@@ -6,6 +6,8 @@ Kurumsal güvenlik, sunucu yönetimi ve otomasyon alanında web ve mobil ürünl
 Ürünlerin çoğu kurumların kendi sunucusunda çalışan (self-hosted) sistemler. Kodları özel
 depolarda tutuluyor, bu yüzden aşağıda her ürünün canlı sayfasına bağlantı veriyorum.
 
+📄 **Özgeçmiş (CV):** [Suleyman_Elbir_CV.pdf](cv/Suleyman_Elbir_CV.pdf)
+
 ## 🚀 Ürünlerim
 
 ### 🔐 Kurumsal ve geliştirici ürünleri
